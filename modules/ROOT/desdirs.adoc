@@ -1,7 +1,7 @@
 .xref:index.adoc[Конструкторы и справочники]
 * xref:index.adoc[]
 
-* Справочники модуля {pl}
+* xref:platform.adoc[]
 ** xref:platform:desdirs:components/directory.adoc[]
 *** xref:platform:desdirs:components/manage-groups.adoc[]
 *** xref:platform:desdirs:components/manage-components.adoc[]
@@ -18,7 +18,7 @@
 *** xref:platform:desdirs:systemsettings/workflow-settings.adoc[]
 *** xref:platform:desdirs:systemsettings/integrate-solution.adoc[]
 
-* Конструкторы и справочники {bo}
+* xref:backoffice.adoc[]
 ** xref:backoffice:desdirs:numeration/designer.adoc[]
 *** xref:backoffice:desdirs:numeration/manage-rules.adoc[]
 *** xref:backoffice:desdirs:numeration/rule-params.adoc[]
@@ -183,7 +183,7 @@
 **** xref:backoffice:desdirs:card-kinds/general-inherit.adoc[]
 **** xref:backoffice:desdirs:card-kinds/general-business-process.adoc[]
 **** xref:backoffice:desdirs:card-kinds/card-create-mode.adoc[]
-*** Настройки типа "Документ"
+*** xref:backoffice:desdirs:card-kinds/document/document.adoc[]
 **** xref:backoffice:desdirs:card-kinds/document/attached-files.adoc[]
 ***** xref:backoffice:desdirs:card-kinds/document/doc-versions.adoc[]
 ***** xref:backoffice:desdirs:card-kinds/document/main-file-source.adoc[]
@@ -200,7 +200,7 @@
 ***** xref:backoffice:desdirs:card-kinds/document/sign-card.adoc[]
 ***** xref:backoffice:desdirs:card-kinds/document/sign-operation.adoc[]
 **** xref:backoffice:desdirs:card-kinds/document/unique-attributes-check.adoc[]
-*** Настройки типа "Задание"
+*** xref:backoffice:desdirs:card-kinds/task/task.adoc[]
 **** xref:backoffice:desdirs:card-kinds/task/settings-parameters.adoc[]
 **** xref:backoffice:desdirs:card-kinds/task/delegate.adoc[]
 **** xref:backoffice:desdirs:card-kinds/task/subordinate-task.adoc[]
@@ -208,7 +208,7 @@
 **** xref:backoffice:desdirs:card-kinds/task/finishing.adoc[]
 **** xref:backoffice:desdirs:card-kinds/task/signing.adoc[]
 **** xref:backoffice:desdirs:card-kinds/task/email.adoc[]
-*** Настройки типа "Группа заданий"
+*** xref:backoffice:desdirs:card-kinds/task-group/task-group.adoc[]
 **** xref:backoffice:desdirs:card-kinds/task-group/kind-for-performers.adoc[]
 **** xref:backoffice:desdirs:card-kinds/task-group/links-for-docs-tasks.adoc[]
 **** xref:backoffice:desdirs:card-kinds/task-group/links-for-url.adoc[]
@@ -237,7 +237,7 @@
 **** xref:backoffice:desdirs:partners/department/edit.adoc[]
 **** xref:backoffice:desdirs:partners/department/delete.adoc[]
 *** xref:backoffice:desdirs:partners/displayed-fields.adoc[]
-*** Сотрудники контрагентов
+*** xref:backoffice:desdirs:partners/employee/partner-employee.adoc[]
 **** xref:backoffice:desdirs:partners/employee/displayed-fields.adoc[]
 **** xref:backoffice:desdirs:partners/employee/main-info.adoc[]
 **** xref:backoffice:desdirs:partners/employee/additional-info.adoc[]
@@ -319,7 +319,7 @@
 *** xref:backoffice:desdirs:links/search.adoc[]
 *** xref:backoffice:desdirs:links/security.adoc[]
 
-* Справочники модуля {wc}
+* xref:webclient.adoc[]
 ** xref:webclient:user:directories/partners/directory.adoc[]
 *** xref:webclient:user:directories/partners/find-select.adoc[]
 *** xref:webclient:user:directories/partners/quick-search.adoc[]
