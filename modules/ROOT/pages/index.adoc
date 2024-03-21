@@ -33,6 +33,9 @@
 
 .Модуль {wc} предоставляет пользователю возможность работы со следующими справочниками:
 * "xref:5.5.17@webclient:user:directories/partners/directory.adoc[]"
-* "xref:5.5.17@webclient:user:directories/nomenclature/directory.adoc[]"
 * "xref:5.5.17@webclient:user:directories/staff/directory.adoc[]"
 * "xref:5.5.17@webclient:user:directories/powers/directory.adoc[]"
+
+[#archive]
+== Справочники модуля {am}
+* "xref:5.5.1@archivemgmt:user:directory.adoc[]"
