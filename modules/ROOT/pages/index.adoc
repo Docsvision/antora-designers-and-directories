@@ -6,36 +6,37 @@
 == Справочники модуля {pl}
 
 .Модуль {pl} добавляет в систему следующие справочники:
-* "xref:5.5.5@platform:desdirs:foldertypes/directory.adoc[Справочник типов папок]".
-* "xref:5.5.5@platform:desdirs:systemsettings/directory.adoc[Системные настройки]".
-* "xref:5.5.5@platform:desdirs:components/directory.adoc[Справочник компонентов]".
+* "xref:platform:desdirs:foldertypes/directory.adoc[Справочник типов папок]".
+* "xref:platform:desdirs:systemsettings/directory.adoc[Системные настройки]".
+* "xref:platform:desdirs:components/directory.adoc[Справочник компонентов]".
 
 [#base-objects]
 == Конструкторы и справочники модуля {bo}
 
 .Модуль {bo} добавляет конструкторы и справочники, указанные ниже:
-* "xref:5.5.5@backoffice:desdirs:card-kinds/directory.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:categories/directory.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:links/directory.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:partners/directory.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:servers/directory.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:signatures/directory.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:staff/directory.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:directories/designer.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:layouts/designer.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:numeration/designer.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:roles/designer.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:scripts/designer.adoc[]".
-* "xref:5.5.5@backoffice:desdirs:states/designer.adoc[]".
+* "xref:backoffice:desdirs:card-kinds/directory.adoc[]".
+* "xref:backoffice:desdirs:categories/directory.adoc[]".
+* "xref:backoffice:desdirs:links/directory.adoc[]".
+* "xref:backoffice:desdirs:partners/directory.adoc[]".
+* "xref:backoffice:desdirs:servers/directory.adoc[]".
+* "xref:backoffice:desdirs:signatures/directory.adoc[]".
+* "xref:backoffice:desdirs:staff/directory.adoc[]".
+* "xref:backoffice:desdirs:directories/designer.adoc[]".
+* "xref:backoffice:desdirs:layouts/designer.adoc[]".
+* "xref:backoffice:desdirs:numeration/designer.adoc[]".
+* "xref:backoffice:desdirs:roles/designer.adoc[]".
+* "xref:backoffice:desdirs:scripts/designer.adoc[]".
+* "xref:backoffice:desdirs:states/designer.adoc[]".
 
 [#web-client]
 == Справочники модуля {wc}
 
 .Модуль {wc} предоставляет пользователю возможность работы со следующими справочниками:
-* "xref:5.5.17@webclient:user:directories/partners/directory.adoc[]"
-* "xref:5.5.17@webclient:user:directories/staff/directory.adoc[]"
-* "xref:5.5.17@webclient:user:directories/powers/directory.adoc[]"
+* "xref:webclient:user:directories/partners/directory.adoc[]"
+* "xref:webclient:user:directories/staff/directory.adoc[]"
+* "xref:webclient:user:directories/powers/directory.adoc[]"
 
 [#archive]
 == Справочники модуля {am}
-* "xref:5.5.1@archivemgmt:user:directory.adoc[]"
+
+* "xref:archivemgmt:user:directory.adoc[]"
