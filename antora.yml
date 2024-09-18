@@ -1,5 +1,5 @@
 name: desdirs
-version: ~
+version: dv5
 title: Конструкторы и справочники
 asciidoc:
   attributes:
